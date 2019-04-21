@@ -1,3 +1,4 @@
+
 public class Doutor {
     private String illness[] = null;
     private String sintomasPaciente[] = null;
